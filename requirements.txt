@@ -6,8 +6,8 @@ jupyter
 matplotlib
 notebook
 numpy
-pandas
+pandas<3
 plotly
-scikit-learn
+scikit-learn==1.6.1
 xgboost
 seaborn
